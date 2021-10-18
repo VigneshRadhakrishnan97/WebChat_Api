@@ -1,0 +1,4 @@
+{
+  "mongodbDIR": "mongodb+srv://vignesh:vignesh1234@webchat.4t88w.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtsecter": "jwtsecret"
+}
